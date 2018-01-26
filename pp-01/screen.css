@@ -15,7 +15,7 @@ html {
 }
 
 li {
-  padding-bottom: 1.5em;
+  padding-bottom: 1.1em;
 }
 
 label {
@@ -23,7 +23,7 @@ label {
 }
 
 input {
-  padding: 1em;
+  padding: 0.75em;
 }
 
 /* Layout Styles */
