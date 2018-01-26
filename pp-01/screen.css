@@ -24,6 +24,7 @@ label {
 
 input {
   padding: 0.9em;
+  border: 0;
 }
 
 /* Layout Styles */
