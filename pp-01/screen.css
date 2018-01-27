@@ -10,12 +10,12 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Base Styles */
 html {
-  font-size: 1.2em; /* 20 / 16 = 1.125em */
-  line-height: 1.1em; /* 22 / 20 = 1.222em */
+  font-size: 1.375em; /* 22 / 16 = 1.375em */
+  line-height: 1.10em; /* 24 / 22 = 1.222em */
 }
 
 li {
-  padding-bottom: 1.1em;
+  padding-bottom: 1.10em;
 }
 
 label {
@@ -23,7 +23,12 @@ label {
 }
 
 input {
-  padding: 0.75em;
+  padding: 1em;
+  background-color: red;
+}
+
+#submit{
+  line-height: 0.5em;
 }
 
 /* Layout Styles */
