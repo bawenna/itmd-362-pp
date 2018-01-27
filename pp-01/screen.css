@@ -11,11 +11,15 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Base Styles */
 html {
   font-size: 1.375em; /* 22 / 16 = 1.375em */
-  line-height: 21.10em; /* 24 / 22 = 1.222em */
+  line-height: 1.10em; /* 24 / 22 = 1.222em */
+}
+
+body{
+  align: center;
 }
 
 li {
-  padding-bottom:21.10em;
+  padding-bottom:1.10em;
 }
 
 label {
@@ -24,11 +28,11 @@ label {
 
 input {
   padding: 1em;
-  background-color: red;
+  background-color: blue;
 }
 
 #submit{
-  padding: 0.5em;
+  padding: 2em;
 }
 
 /* Layout Styles */
