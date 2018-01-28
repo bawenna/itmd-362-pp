@@ -10,7 +10,7 @@
   </head>
   <body>
     <main id="content">
-      <form action="#null" method="get">
+      <form action="#null" method="get" id="contact">
         <ol>
           <li>
             <label for="email">Email</label>
@@ -18,7 +18,7 @@
           </li>
           <li>
             <label for="phone">Phone</label>
-            <input type="tel" id="phone" name="phone" />
+            <input type="tel" id="phone" name="phone" placeholder="xxx-xxx-xxxx" pattern="\d{3}[\-]\d{3}[\-]\d{4}"/>
           </li>
           <li>
             <label for="birthday">Birthday</label>
@@ -28,5 +28,7 @@
         <input type="submit" id="submit" value="Sign Me Up!" />
       </form>
     </main>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="site.js"></script>
   </body>
 </html>
