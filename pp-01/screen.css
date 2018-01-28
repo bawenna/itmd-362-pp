@@ -11,7 +11,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Base Styles */
 html {
   font-size: 1.375em; /* 22 / 16 = 1.375em */
-  line-height: 1.10em; /* 24 / 22 = 1.222em */
+  line-height: 1.22em; /* 24 / 22 = 1.222em */
 }
 
 body{
@@ -19,7 +19,7 @@ body{
 }
 
 li {
-  padding-bottom:1.1em;
+  padding-bottom:1.22em;
 }
 
 label {
@@ -27,12 +27,12 @@ label {
 }
 
 input {
-  padding: 1.1em;
+  padding: 1.22em;
   background-color: grey;
 }
 
 #submit{
-  padding: 2.2em;
+  padding: 1em;
 }
 
 /* Layout Styles */
