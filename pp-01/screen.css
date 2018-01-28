@@ -27,11 +27,7 @@ label {
 }
 
 input {
-  padding: 1.09em;
-  background-color: grey;
-}
-
-#submit{
+  border: solid;
   padding: 1em;
 }
 
