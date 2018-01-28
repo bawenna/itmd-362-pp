@@ -19,7 +19,7 @@ body{
 }
 
 li {
-  padding-bottom:1.10em;
+  padding-bottom:1em;
 }
 
 label {
@@ -27,7 +27,7 @@ label {
 }
 
 input {
-  padding: 1.10em;
+  padding: 1em;
   background-color: grey;
 }
 
