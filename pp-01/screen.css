@@ -14,12 +14,12 @@ html {
   line-height: 1.09em; /* 24 / 22 = 1.09090909em */
 }
 
-body{
+body {
   text-align: center;
 }
 
 li {
-  padding-bottom:1.09em;
+  padding-bottom: 1.09em;
 }
 
 label {
