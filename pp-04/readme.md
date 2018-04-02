@@ -27,11 +27,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/controls/text-fields/
+* How you implemented it in your sketch: Give hints to tell the users what to enter by using placeholder on the input line, I also implemented a clear button at the end of each input.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/
+* How you implemented it in your sketch: I redesigned the iit login page since the current one is not in a mobile scale when you view it on your phone, it makes browsing through iit.edu painful since you have to zoom in to see what's there. Therefore, I arranged two input text fields in the center for users to enter their login credentials, other contents on the page goes below the login tab, makes it easy to scroll down and look at them.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/views/action-sheets/
+* How you implemented it in your sketch: Display a alert box before clicking any links on the website to inform the users that they are leaving the current website and give them a chance to cancel this action.
